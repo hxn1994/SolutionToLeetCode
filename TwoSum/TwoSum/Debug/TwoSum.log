@@ -1,0 +1,5 @@
+﻿  TwoSum.cpp
+g:\code\twosum\twosum\twosum\twosum.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\twosum\twosum\twosum\twosum.cpp(27): warning C4018: “<”: 有符号/无符号不匹配
+g:\code\twosum\twosum\twosum\twosum.cpp(29): warning C4018: “<”: 有符号/无符号不匹配
+  TwoSum.vcxproj -> G:\code\TwoSum\TwoSum\Debug\TwoSum.exe
